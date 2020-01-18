@@ -1,4 +1,4 @@
-// The following program runs as a simple calculator where the user inputs the expression to be evaluated
+// The following program runs as a simple calculator where the user inputs the expression to be evaluated.
 import java.util.Scanner;
 
 public class Question_3 {
